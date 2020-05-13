@@ -6,5 +6,7 @@ public class Login {
         System.out.println("Login page is opened!");
         
         //I will add a line here
+
+        //this line is written from Intellij
     }
 }
